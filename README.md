@@ -1,11 +1,14 @@
 # Delimitation-India-Data-StoryOverview
 This project analyzes demographic trends and parliamentary representation in India using Python. It explores population growth, Lok Sabha seat distribution, and representation patterns to provide evidence-based insights into the public policy debate surrounding delimitation.
+
 **Research Question**
 How have demographic changes influenced the policy debate on delimitation in India?
+
 **Datasets**
 Lok Sabha Seats
 India Population (1950–2026)
 State Population Growth Rate
+
 **Tools**
 Python
 Pandas
@@ -13,12 +16,14 @@ NumPy
 Matplotlib
 Google Colab
 Canva
+
 **Visualizations**
 Population Growth (1950–2026)
 State Population Growth
 Lok Sabha Seat Distribution
 Population Share vs Seats
 Representation Index
+
 **Statistical Analysis**
 Descriptive Statistics
 Pearson Correlation
