@@ -1,3 +1,4 @@
+# License for Reports and Publications
 Unless otherwise stated, all policy briefs, data stories, research reports, infographics, and written materials published under LokLens are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 You are free to:
